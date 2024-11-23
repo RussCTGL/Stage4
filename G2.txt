@@ -1,0 +1,6 @@
+﻿Yaxin Zhang zhang2763@wisc.edu
+Johnny Qin jqin38@wisc.edu
+Russell Lu lu435@wisc.edu
+
+
+All members of G2 have made substantial contributions to the stage 4. The infrastructure of the whole heapFile implementation was done by Yaxin and Johnny mostly to fulfill the requirements of testfile while Russell focuses more on error handling and details of codes to make sure the outcome is closely aligned with project objectives. The communication and cooperation was smooth throughout the project.
